@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/Lunar.Core.Base.csproj": {}
+    "/home/aik/Projects/UnityProjects/Lunar-Original/MooaLewaUI/src/Lunar.Core.Base/Lunar.Core.Base.csproj": {}
   },
   "projects": {
-    "/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/Lunar.Core.Base.csproj": {
+    "/home/aik/Projects/UnityProjects/Lunar-Original/MooaLewaUI/src/Lunar.Core.Base/Lunar.Core.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/Lunar.Core.Base.csproj",
+        "projectUniqueName": "/home/aik/Projects/UnityProjects/Lunar-Original/MooaLewaUI/src/Lunar.Core.Base/Lunar.Core.Base.csproj",
         "projectName": "Lunar.Core.Base",
-        "projectPath": "/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/Lunar.Core.Base.csproj",
+        "projectPath": "/home/aik/Projects/UnityProjects/Lunar-Original/MooaLewaUI/src/Lunar.Core.Base/Lunar.Core.Base.csproj",
         "packagesPath": "/home/aik/.nuget/packages/",
-        "outputPath": "/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/obj/",
+        "outputPath": "/home/aik/Projects/UnityProjects/Lunar-Original/MooaLewaUI/src/Lunar.Core.Base/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aik/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,10 @@
+/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/bin/Debug/netstandard2.1/Lunar.Core.Base.deps.json
+/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/bin/Debug/netstandard2.1/Lunar.Core.Base.dll
+/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/bin/Debug/netstandard2.1/Lunar.Core.Base.pdb
+/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/obj/Debug/netstandard2.1/Lunar.Core.Base.GeneratedMSBuildEditorConfig.editorconfig
+/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/obj/Debug/netstandard2.1/Lunar.Core.Base.AssemblyInfoInputs.cache
+/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/obj/Debug/netstandard2.1/Lunar.Core.Base.AssemblyInfo.cs
+/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/obj/Debug/netstandard2.1/Lunar.Core.Base.csproj.CoreCompileInputs.cache
+/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/obj/Debug/netstandard2.1/Lunar.Core.Base.sourcelink.json
+/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/obj/Debug/netstandard2.1/Lunar.Core.Base.dll
+/home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/obj/Debug/netstandard2.1/Lunar.Core.Base.pdb

@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Lunar.Core.Base
+build_property.ProjectDir = /home/aik/Projects/UnityProjects/Lunar-Original/Lunar/src/Lunar.Core.Base/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
